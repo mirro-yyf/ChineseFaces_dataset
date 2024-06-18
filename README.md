@@ -97,4 +97,8 @@ High quality deepfake dataset constructed using Chinese faces.
 
 - 百度网盘链接：链接：https://pan.baidu.com/s/1K79SCHdH5qAeNAkCLvNwUA  提取码：y9vr 
 - 谷歌云盘链接：
+  - c40: https://drive.google.com/file/d/171T8mFWc1YjPS-gComjBtEPz_MlwaREI/view?usp=sharing
+  - c35: https://drive.google.com/file/d/1xO2QR_YHtJ0f43n22vRYoqNHIYmYsJom/view?usp=sharing
+  - c23: https://drive.google.com/file/d/1EQd9BMG_qtSqyB2fIjs_iuddy-Mi0Q6f/view?usp=sharing
+  - c0: https://drive.google.com/file/d/1JF9oapy7mWEcPaQRIHxYr8SBcKf5xt2w/view?usp=sharing
 
