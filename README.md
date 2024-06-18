@@ -38,7 +38,7 @@ High quality deepfake dataset constructed using Chinese faces.
 ### 2.1 数据集目录概览：
 
 ```python
---Homologous_deepfake_dataset
+--ChineseFaces
   --c0
     --attribute_edit		# 属性编辑视频
     --avatar				# 表情驱动视频
